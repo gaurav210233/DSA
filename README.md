@@ -1,2 +1,2 @@
-# DSA-C
-Some codes of DSA written in c
+# DSA
+Some codes of DSA
